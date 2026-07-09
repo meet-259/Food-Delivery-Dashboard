@@ -71,7 +71,9 @@ Tasks included
 - The revenue and order trends closely follow each other across most quarters. This indicates revenue growth is currently driven mainly by increasing the number of orders rather than increasing customer spending.
   
   Business Action: Increase Average Order Value through:
-    •	Combo meals 
+  
+    •	Combo meals
+  
     •	Free delivery thresholds
 
 - Revenue drops noticeably during Q3 2024, while the decline in orders is relatively smaller.
