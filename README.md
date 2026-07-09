@@ -13,11 +13,12 @@ The dashboard helps stakeholders monitor
 
 ## Business Problem
 
-The company wants to understand
+The dashboard aims to answer
 
 - Why has revenue remained stable?
 - Which customer segments contribute most to maintaining revenue?
 - Are repeat customers helping keep revenue consistent?
+- Which restaurants generate the highest revenue?
 - Which cuisines or restaurants consistently drive sales?
 
 ## Dataset
