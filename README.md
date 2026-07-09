@@ -69,6 +69,7 @@ Tasks included
 - The platform consistently generates approximately ₹20–21M revenue and around 28K–31K orders annually, indicating relatively stable business performance over the last three years.
 
 - The revenue and order trends closely follow each other across most quarters. This indicates revenue growth is currently driven mainly by increasing the number of orders rather than increasing customer spending.
+  
   Business Action: Increase Average Order Value through:
     •	Combo meals 
     •	Free delivery thresholds
@@ -82,31 +83,39 @@ Tasks included
 - The platform gains approximately 700–800 new customers every month, with no major declines. This indicates marketing efforts are consistently attracting new users.
 
 - Over 80% of customers are repeat customers. Regular and Loyal customers contribute most of the revenue. This suggests that existing customers are significantly more valuable than first-time customers.
+  
   Business Action: Continue investing in:
     •	Loyalty rewards 
     •	Membership programs
 
 - BTM has:
+  
     •	Highest customer count 
-    •	Highest revenue 
+    •	Highest revenue
+  
   However, some areas generate relatively high revenue with fewer customers. This may indicate higher spending customers in those locations.
 
 ### Restaurnat Analysis
 
 - Delivery restaurants outperform every other restaurant type. This aligns with customer preference for online ordering.
+  
   Business Action: Prioritize onboarding more high-quality delivery restaurants.
 
 - North Indian, South Indian, and Chinese dominate order volume. These cuisines should remain priorities for Promotions.
 
 - Restaurants rated between 3 and 4 account for the highest revenue.
+  
   Business Action: Help mid-rated restaurants improve service and ratings to increase customer trust.
 
 - Restaurants like:
+  
     •	Onesta 
     •	Just Bake 
     •	Empire Restaurant 
-    •	Baskin Robbins 
+    •	Baskin Robbins
+
   generate substantially higher revenue than most others.
+  
   Business Action: Maintain strong relationships with top-performing restaurant partners.
 
  
