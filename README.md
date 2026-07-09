@@ -70,7 +70,7 @@ Tasks included
 
 - The revenue and order trends closely follow each other across most quarters. This indicates revenue growth is currently driven mainly by increasing the number of orders rather than increasing customer spending.
   
-  Business Action: Increase Average Order Value through:
+  **Business Action:** Increase Average Order Value through:
   
     - Combo meals
   
@@ -86,7 +86,7 @@ Tasks included
 
 - Over 80% of customers are repeat customers. Regular and Loyal customers contribute most of the revenue. This suggests that existing customers are significantly more valuable than first-time customers.
   
-  Business Action: Continue investing in:
+  **Business Action:** Continue investing in:
   
     - Loyalty rewards
       
@@ -104,13 +104,13 @@ Tasks included
 
 - Delivery restaurants outperform every other restaurant type. This aligns with customer preference for online ordering.
   
-  Business Action: Prioritize onboarding more high-quality delivery restaurants.
+  **Business Action:** Prioritize onboarding more high-quality delivery restaurants.
 
 - North Indian, South Indian, and Chinese dominate order volume. These cuisines should remain priorities for Promotions.
 
 - Restaurants rated between 3 and 4 account for the highest revenue.
   
-  Business Action: Help mid-rated restaurants improve service and ratings to increase customer trust.
+  **Business Action:** Help mid-rated restaurants improve service and ratings to increase customer trust.
 
 - Restaurants like:
   
@@ -121,7 +121,7 @@ Tasks included
 
   generate substantially higher revenue than most others.
   
-  Business Action: Maintain strong relationships with top-performing restaurant partners.
+  **Business Action:** Maintain strong relationships with top-performing restaurant partners.
 
  
 ## Tools Used
