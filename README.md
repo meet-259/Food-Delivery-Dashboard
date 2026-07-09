@@ -87,13 +87,16 @@ Tasks included
 - Over 80% of customers are repeat customers. Regular and Loyal customers contribute most of the revenue. This suggests that existing customers are significantly more valuable than first-time customers.
   
   Business Action: Continue investing in:
-    •	Loyalty rewards 
-    •	Membership programs
+  
+    - Loyalty rewards
+      
+    - Membership programs
 
 - BTM has:
   
-    •	Highest customer count 
-    •	Highest revenue
+    - Highest customer count
+      
+    - Highest revenue
   
   However, some areas generate relatively high revenue with fewer customers. This may indicate higher spending customers in those locations.
 
@@ -111,10 +114,10 @@ Tasks included
 
 - Restaurants like:
   
-    •	Onesta 
-    •	Just Bake 
-    •	Empire Restaurant 
-    •	Baskin Robbins
+    - Onesta 
+    - Just Bake 
+    - Empire Restaurant 
+    - Baskin Robbins
 
   generate substantially higher revenue than most others.
   
