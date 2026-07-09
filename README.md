@@ -72,9 +72,9 @@ Tasks included
   
   Business Action: Increase Average Order Value through:
   
-    •	Combo meals
+    - Combo meals
   
-    •	Free delivery thresholds
+    - Free delivery thresholds
 
 - Revenue drops noticeably during Q3 2024, while the decline in orders is relatively smaller.
 
