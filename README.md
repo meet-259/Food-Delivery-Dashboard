@@ -6,10 +6,10 @@ Designed an interactive Power BI dashboard to analyze a food delivery business u
 
 The dashboard helps stakeholders monitor
 
-• Revenue
-• Orders
-• Customers
-• Restaurants
+- Revenue
+- Orders
+- Customers
+- Restaurants
 
 ## Business Problem
 
@@ -68,7 +68,7 @@ Tasks included
 
 - The platform consistently generates approximately ₹20–21M revenue and around 28K–31K orders annually, indicating relatively stable business performance over the last three years.
 
-- The revenue and order trends closely follow each other across most quarters. This indicates revenue growth is currently driven mainly by increasing the number of orders rather than increasing customer spending.
+- The revenue and order trends closely follow each other across most quarters. This indicates revenue is currently driven mainly by increasing the number of orders rather than increasing customer spending.
   
   **Business Action:** Increase Average Order Value through:
   
