@@ -100,7 +100,7 @@ Tasks included
   
   However, some areas generate relatively high revenue with fewer customers. This may indicate higher spending customers in those locations.
 
-### Restaurnat Analysis
+### Restaurant Analysis
 
 - Delivery restaurants outperform every other restaurant type. This aligns with customer preference for online ordering.
   
